@@ -1,4 +1,5 @@
 /.ipynb_checkpoints
 *.dmp
+*.dat
 *.pkl
 *.json
