@@ -1,4 +1,4 @@
-### Repo for my research in the scheduling theory at ICS RAS.
+### Repo for my research in the scheduling theory at ICS RAS
 
 Structure:
 
